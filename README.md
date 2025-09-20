@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">**'Desenvolvedor Junior Back-End'**</p>
+<p align="center">Desenvolvedor Junior Back-End</p>
 
 ###
 
