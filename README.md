@@ -1,24 +1,24 @@
-<h1 align="center">Rafael de Oliveira Machado</h1>
+<h1 align="left">Rafael de Oliveira Machado</h1>
 
 ###
 
-<p align="center">Desenvolvedor Junior Back-End</p>
+<p align="left">Desenvolvedor Junior Back-End</p>
 
 ###
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="center">Estudante de Engenharia de Software, atualmente no 2º período. Busco seguir carreira como desenvolvedor back-end, adquirindo experiência prática na área para consolidar meu aprendizado, aprimorar minhas habilidades técnicas e evoluir constantemente como profissional de tecnologia.</p>
+<p align="left">Estudante de Engenharia de Software, atualmente no 2º período. Busco seguir carreira como desenvolvedor back-end, adquirindo experiência prática na área para consolidar meu aprendizado, aprimorar minhas habilidades técnicas e evoluir constantemente como profissional de tecnologia. Atualmente estou estudando SQL e JavaScript</p>
 
 ###
 
-<h2 align="center">Linguagens</h2>
+<h2 align="left">Linguagens</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -32,14 +32,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kaiserraf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiserraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/https://open.spotify.com/user/iepiy033vlm7h4fbunws9ys7m?si=d454a64f17f84b4c">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/iepiy033vlm7h4fbunws9ys7m?si=d454a64f17f84b4c&count=5" alt="Spotify recently played"  />
   </a>
