@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">Desenvolvedor Junior Back-End</p>
+<p align="left">BackEnd junior Dev</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">Estudante de Engenharia de Software, atualmente no 2º período. Busco seguir carreira como desenvolvedor back-end, adquirindo experiência prática na área para consolidar meu aprendizado, aprimorar minhas habilidades técnicas e evoluir constantemente como profissional de tecnologia. Atualmente estou estudando SQL e JavaScript</p>
+<p align="left">Software Engineering student, currently in the 2nd semester. I am seeking a career as a back-end developer, aiming to gain practical experience in the field to solidify my learning, enhance my technical skills, and continuously evolve as a technology professional. I am currently studying SQL and JavaScript.</p>
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
