@@ -40,5 +40,5 @@
 
 ## 👤 Conect With Me
 
-* **LeetCode Profile:** [https://leetcode.com/SEU-USERNAME/](https://leetcode.com/kaiserraf/)
-* **LinkedIn Profile:** [https://linkedin.com/in/SEU-USERNAME/](https://linkedin.com/in/rafaelkaisermachado/)
+* **LeetCode Profile:** [https://leetcode.com/kaiserraf/](https://leetcode.com/kaiserraf/)
+* **LinkedIn Profile:** [https://linkedin.com/in/rafaelkaisermachado/](https://linkedin.com/in/rafaelkaisermachado/)
