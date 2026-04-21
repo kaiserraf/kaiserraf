@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Software Engineering student, currently in the 2nd semester. I am seeking a career as a back-end developer, aiming to gain practical experience in the field to solidify my learning, enhance my technical skills, and continuously evolve as a technology professional.</p>
+<p align="left">Software Engineering student, currently in the 3nd semester. I am seeking a career as a back-end developer, aiming to gain practical experience in the field to solidify my learning, enhance my technical skills, and continuously evolve as a technology professional.</p>
 
 ###
 
